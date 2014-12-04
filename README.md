@@ -1,7 +1,7 @@
 Muticast_example
 ================
 
-A example for Multicast sending and receiving
+An example for Multicast sending and receiving
 
 eg:
 
